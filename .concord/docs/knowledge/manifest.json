@@ -1,0 +1,25 @@
+{
+  "dispositions": [],
+  "indexed_kinds": [
+    "constitution",
+    "decision",
+    "lesson",
+    "reference",
+    "research",
+    "spec",
+    "work_note"
+  ],
+  "knowledge_roots": [
+    ".concord/docs/"
+  ],
+  "schema_version": "1.3",
+  "supported_kinds": [
+    "constitution",
+    "decision",
+    "lesson",
+    "reference",
+    "research",
+    "spec",
+    "work_note"
+  ]
+}

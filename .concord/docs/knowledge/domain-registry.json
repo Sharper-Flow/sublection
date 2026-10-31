@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "product_key": "sublection",
+  "root_domain_id": "product-root:sublection",
+  "domains": [
+    {
+      "domain_id": "product-root:sublection",
+      "name": "sublection",
+      "purpose": "Product-wide behavior.",
+      "status": "current",
+      "architecture_relations": []
+    }
+  ]
+}
